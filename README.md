@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dalamar96
 - 👀 I’m interested in all things code, cloud, vr, game dev, 3d design, solidity etc...
 - 🌱 I’m currently learning all sorts of things, 3d design, cloud dev and Crypto Development!
-- 💞️ I’m looking to collaborate on various crypto project!
+- 💞️ I’m looking to collaborate on various crypto projects!
 - 📫 How to reach me, look to the clouds!
 
 <!---
