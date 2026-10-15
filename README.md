@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @dalamar96
-- 👀 I’m interested in all things code, cloud, vr, game dev, 3d design, AI etc...
-- 🌱 I’m currently learning all sorts of things, 3d design, cloud dev and AI Development!
-- 💞️ I’m looking to collaborate on various AI projects!
-- 📫 How to reach me, look to the clouds!
+# Hi, I'm Chad Naujoks
 
-<!---
-dalamar96/dalamar96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Software Engineer (Staff/Principal level) — AI & Automation**
+📍 Virginia Beach, VA · 🌐 Open to remote · 🔐 TS/SCI cleared
+
+I build software that replaces manual work with automated systems. 20+ years as a developer, currently Lead Developer for a 25-person cross-functional team supporting a 100+ application portfolio across a DoD command. Lean Six Sigma Black Belt.
+
+## What I'm focused on
+- **Applied AI** — local LLM deployment & evaluation, RAG pipelines (FAISS, hybrid retrieval), AI agent workflows
+- **Workflow automation** — Python/PowerShell process automation, internal tooling, dashboards
+- **.NET platform engineering** — C#, .NET 8, Azure, SQL Server
+
+## Stack
+`C#` `Python` `TypeScript` `SQL` `PowerShell` `C++` `.NET 8` `Azure` `Docker` `FAISS` `Git`
+
+## Elsewhere
+- 💼 [LinkedIn](https://www.linkedin.com/in/chadnaujoks/)
+- 🎮 Unity game dev (for fun) · 📷 Photographer
+
+*My work repos are private — happy to walk through architecture and outcomes in conversation.*
